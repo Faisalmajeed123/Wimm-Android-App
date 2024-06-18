@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name" translatable="false">WhereIsMyMotivation</string>
+    <string name="default_web_client_id" translatable="false"> </string>
+    <string name="firebase_database_url" translatable="false"> </string>
+    <string name="gcm_defaultSenderId" translatable="false"> </string>
+    <string name="google_api_key" translatable="false"> </string>
+    <string name="google_app_id" translatable="false"> </string>
+    <string name="google_crash_reporting_api_key" translatable="false"> </string>
+    <string name="google_storage_bucket" translatable="false"> </string>
+    <string name="project_id" translatable="false"> </string>
+    <string name="default_notification_channel_id" translatable="false">general</string>
+    <string name="happiness_notification_channel_id" translatable="false">happiness</string>
+
+    <string name="interest_selection_title">Choose the topics that interest you</string>
+    <string name="mentor_selection_title">Choose the people you want to make your mentors</string>
+
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+
+    <string name="no_internet_connection" translatable="false">No Internet Connection!</string>
+
+    <!--menu-->
+    <string name="menu_feed">Home</string>
+    <string name="menu_mentors">Mentors</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_me">Me</string>
+    <string name="menu_box">My Box</string>
+
+    <!--login-->
+
+    <string name="something_went_wrong">Something went wrong, please try again.</string>
+
+    <string name="my_mentors">My Mentors</string>
+    <string name="back">Back</string>
+
+    <string name="login">Login</string>
+
+    <string name="select_few_topics">Please select few Topics</string>
+    <string name="select_some_mentors">Please select some Mentors</string>
+
+    <string name="share_content_using">Share Content Using</string>
+    <string name="share_using">Share Using</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed</string>
+    <string name="string_somethingWentWrong">Something went wrong</string>
+
+    <string name="explore_mentors">Explore Mentors</string>
+
+    <string name="ok">OK</string>
+
+    <string name="motivation_box">My Motivation Box</string>
+
+    <string name="not_valid_motivation_box_object">This item can not be added.</string>
+    <string name="motivation_box_addition_complete">Added to your Motivation Box.</string>
+    <string name="motivation_box_addition_failed">Storage failure! Please try again.</string>
+    <string name="motivation_box_deletion_failed">Deletion failure! Please try again.</string>
+    <string name="motivation_box_deletion_success">Deleted from your Motivation Box.</string>
+    <string name="motivation_box_addition_message">Adding to your Motivation Box.</string>
+
+    <string name="motivation_box_empty_state_title">Just Share Into Motivation Box.</string>
+
+    <string name="motivation_box_empty_state_message">Add your favourite YouTube videos and
+        web contents from anywhere.
+    </string>
+
+    <string name="permission_not_available">You do not have the required permission!</string>
+
+    <string name="notification_default_channel_name">App General Notification</string>
+    <string name="notification_happiness_channel_name">Happiness Record</string>
+    <string name="notification_default_channel_description">This is the default notification channel to receive all the
+        updates
+        from WhereIsMyMotivation App.
+    </string>
+
+    <string name="notification_happiness_channel_description">This is the happiness notification channel to record your
+        daily mood and good moments, so that you remain aware and motivated.
+    </string>
+
+    <string name="view_count_1">1 View</string>
+    <string name="share_count_1">1 Share</string>
+    <string name="like_count_1">1 Like</string>
+    <string name="views_count">%s Views</string>
+    <string name="shares_count">%s Shares</string>
+    <string name="likes_count">%s Likes</string>
+    <string name="likes_and_shares_count">%1s Likes • %2s Shares</string>
+    <string name="like_and_shares_count">1 Like • %s Shares</string>
+    <string name="likes_and_share_count">%s Likes • 1 Share</string>
+    <string name="like_and_share_count_1">1 Like • 1 Share</string>
+
+    <string name="how_your_feeling">How are you now?</string>
+    <string name="angry">Angry</string>
+    <string name="sad">Sad</string>
+    <string name="normal">Normal</string>
+    <string name="happy">Happy</string>
+    <string name="delighted">Delighted</string>
+    <string name="note_down_your_best_thing_for_today_here">Do you want to record your today\'s one good thing?</string>
+    <string name="hint_node_down_your_best_thing_for_today_here">Write down here…</string>
+
+    <string name="your_happiness_level">Your Happiness Level</string>
+    <string name="journal_deletion_success">Deleted from your Journal.</string>
+    <string name="mood_recorded_message">Your mood is recorded</string>
+    <string name="journal_recorded_message">Your journal is saved</string>
+    <string name="record">Record</string>
+    <string name="record_can_not_empty">Record can not be empty.</string>
+
+    <string name="save">Save</string>
+
+    <string name="notification_new">New!</string>
+    <string name="open">Open</string>
+
+    <string name="notification_mood_title">Keep track of your happiness level.</string>
+    <string name="notification_mood_text">Recording your one good thing daily is the best way to remain motivated.
+    </string>
+</resources>
